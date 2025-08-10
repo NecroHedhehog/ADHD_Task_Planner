@@ -1,5 +1,3 @@
----
-
 ```markdown
 # ADHD Task Bot
 
